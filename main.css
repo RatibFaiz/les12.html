@@ -1,0 +1,140 @@
+header {
+	background-color: #4CAF50;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	font-size: 36px;
+}
+
+footer {
+	background-color: #333;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	font-size: 18px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 80%;
+	margin: auto;
+}
+
+td {
+	border: 1px solid black;
+	padding: 10px;
+	text-align: center;
+}
+
+#leeuw, #haai,  #cheetah, #jaguar {
+	background-color: #FFCCCC;
+}
+
+#kat, {
+	background-color: #333;
+}
+ 
+
+
+#hond, {
+	background-color: #4CAF50;
+}
+
+
+
+#tijger, {
+	background-color:  #9370DB;
+}
+
+
+
+
+#cheetah, {
+	background-color:  #333;
+}
+
+
+
+
+#leeuw {
+	background-color: #f8ff7a;
+}
+
+#tijger {
+	background-color: #FFD700;
+}
+
+#hond {
+	background-color: #6d9d6d;
+}
+
+#kat {
+	background-color: #9370DB;
+}
+
+#haai {
+	background-color: #106688;
+}
+
+#giraffe {
+	background-color: #FFB6C1;
+}
+
+#cheetah {
+	background-color: #be8110;
+}
+
+#jaguar {
+	background-color: #642e08;
+}
+
+#img1 {
+	background-color: #FFA07A;
+}
+
+#img2 {
+	background-color: #FFD700;
+}
+
+#img3 {
+	background-color: #90EE90;
+}
+
+#img4 {
+	background-color: #9370DB;
+}
+
+#img5 {
+	background-color: #87CEEB;
+}
+
+#img6 {
+	background-color: #FFB6C1;
+}
+
+#img7 {
+	background-color: #FFA500;
+}
+
+#img8 {
+	background-color: #D2691E;
+}
+
+
+
+
+
+
+
+
+
+
+#leeuw, #kat, #hond, #haai, #giraffe, #tijger, #cheetah, #jaguar {
+	font-size: 24px;
+	padding: 20px;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
